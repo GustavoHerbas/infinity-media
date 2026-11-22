@@ -1,44 +1,38 @@
-# Plan de contenido para crecer en TikTok · Infinity Chess
+# Plan de TikTok basado en datos (22-nov-2026)
 
-**Objetivo:** crecer las 4 cuentas (Quillacollo, Cercado, El Alto, Zona Sur) con contenido que la gente quiera ver y compartir, no solo anuncios.
-**Cómo:** grabas en Quillacollo y aquí se arman 4 versiones distintas, una por cuenta.
+Sale del estudio de 229 videos que está en `estudio_2026-11/`. Reemplaza al plan anterior, que eran ideas sin datos.
 
-## La regla para que no te baje el alcance
+## Lo que ya te funciona (tus propios números)
 
-TikTok compara las imágenes, el audio y sobre todo **los primeros 2–3 segundos**. Cuando grabes:
+| Formato | Video | Vistas | Señal |
+|---|---|--:|---|
+| **Regla o mito del ajedrez en mesa real** | "Si le comes el rey, ¿ganas?" (@infinitychess, 19-nov) | 32.300 | 1.987 likes (6 por cada 100 vistas) y 222 compartidos: es orgánico |
+| | "¿Enrocas así? Es ilegal" (21-nov) | 8.998 | Recién publicado, todavía sube |
+| | "La regla menos conocida" (20-nov) | 2.218 | |
+| **Profe que nombra un miedo del niño** | Robótica, "¿...y si no entiendo nada?" (Cercado) | 103.900 | 328 comentarios y 308 compartidos |
+| Lo demás en la cuenta principal (webcam y tablero digital) | 10 videos de noviembre | 169 a 851 | |
 
-1. **Graba el gancho 4 veces**, cada vez con otra frase y otro ángulo (de frente, de lado, desde arriba del tablero, caminando). Cada cuenta usa una toma distinta.
-2. **Graba más tomas del resto** de lo que necesitas (niños jugando, manos moviendo piezas, reloj, caras de sorpresa). Con eso cambio el orden y los cortes en cada versión.
-3. **No pongas música dentro del video.** La música se agrega al subirlo, con un sonido distinto en cada cuenta.
-4. Publica las versiones **en días distintos** y con texto y hashtags propios de cada ciudad.
+**Conclusión:** la regla o el mito explicado en una mesa real es tu formato viral. Rinde de 10 a 40 veces más que la webcam.
 
-## Formatos que funcionan (y cómo grabarlos)
+## Qué grabar en Quillacollo
 
-| # | Formato | Qué grabar | Por qué funciona |
-|---|---|---|---|
-| 1 | **"¿Mate en 1? Solo el 10 % lo ve"** | Tablero desde arriba con una posición, pausa de 3 s, luego un niño la resuelve | La gente comenta su respuesta: los comentarios empujan el video |
-| 2 | **Niño vs. papá/mamá** | Un alumno pequeño le gana a un adulto; graba la cara del adulto al perder | Sorpresa y ternura, se comparte mucho |
-| 3 | **Profe vs. 10 niños (simultánea)** | El profe caminando entre mesas, plano general + caras | Se ve espectacular y muestra el club lleno |
-| 4 | **"La trampa que todo principiante cae"** | Mate pastor en 4 jugadas y cómo defenderse, explicado en 20 s | Es útil, se guarda y se comparte |
-| 5 | **Partidas rápidas con reloj** | Primer plano de manos y reloj, sonido de golpes, cuenta regresiva | Ritmo rápido, la gente lo ve hasta el final |
-| 6 | **"Le pregunté a los niños…"** | Preguntas cortas: "¿Qué es lo más difícil del ajedrez?", "¿A quién le ganaste?" | Las respuestas espontáneas enganchan a los papás |
-| 7 | **Reto de la semana (serie)** | El mismo formato cada lunes: una posición y "respuesta el viernes" | Las series hacen que te sigan para ver la respuesta |
-| 8 | **Antes y después** | El primer día de un alumno vs. cómo juega hoy | Muestra resultados sin vender directamente |
-| 9 | **Reacción de victoria** | Cámara fija en un alumno durante el final de una partida de torneo | Emoción real, funciona con sonidos en tendencia |
-| 10 | **Un día en el club** | Clip de 1 s de cada momento: llegada, clase, partida, robótica, salida | Muestra el lugar a papás nuevos |
+### 1. Reglas y mitos del ajedrez, en la mesa real (el principal)
+- Igual que los 3 que funcionaron: profe árbitro en la mesa, tablero real y una pregunta grande en pantalla.
+- **Una regla por video.** Por ejemplo: peón al paso, ahogado no es victoria, "pieza tocada, pieza movida", tablas por repetición, coronar a una segunda dama, el rey no puede enrocar si está en jaque.
+- **Para las 4 cuentas:** graba la pregunta inicial 4 o 5 veces con otra frase y otro ángulo. El resto del video se graba una vez. Yo armo una versión por cuenta, cada una con su propio inicio y un cierre de su sede ("esto lo aprenden en Infinity Chess El Alto").
 
-**Proporción sugerida:** 4 de cada 5 videos de entretenimiento o valor (formatos 1–10) y 1 de cada 5 con promo (precio, inscripciones).
+### 2. El miedo del niño (uno por curso)
+- Copia directa del video de 103.900: profe a cámara que dice en voz alta el miedo del niño o del papá.
+- Uno por curso: robótica ("¿y si no entiendo nada?"), oratoria ("me da vergüenza hablar"), dibujo ("no sé dibujar"), ajedrez ("es muy difícil").
 
-## Consejos de grabación
+### 3. Niños haciendo algo, con tu voz encima
+- En las cuentas parecidas es lo que más rinde: mediana de 127.000 vistas, contra 77.900 cuando hay una persona a cámara.
+- Empieza por el resultado: el robot ya funcionando, el dibujo terminado, el jaque mate. Después tu voz explica.
 
-- Celular en vertical, con luz de frente (ventana o aro de luz), y limpia el lente.
-- Los primeros 2 segundos tienen que mostrar algo pasando ya: una pieza moviéndose o una cara de sorpresa, no un saludo.
-- De 15 a 35 segundos para empezar.
-- Pide permiso a los papás para grabar a los niños.
+## Cambios inmediatos (según el estudio)
 
-## Qué me mandas y qué te devuelvo
-
-- **Tú:** los clips crudos de cada sesión (súbelos al repo o compártelos), y dime qué formato es.
-- **Yo:** 4 versiones editadas (una por cuenta), con su texto, hashtags y el día sugerido para publicar cada una.
-
-Herramienta usada para las versiones: `herramientas/variante_tiktok.sh`
+- **Cercado:** volver a publicar ya. No publica desde el 3 de junio.
+- **El Alto:** dejar de subir recortes de LIVE (25 de 30 videos, mediana 287 vistas).
+- **Quillacollo:** dejar la animación (mediana 235) y los videos que enumeran 5 cursos. Un curso por video.
+- **Todas:** decir la zona en el primer segundo. Duración de 30 a 60 segundos.
+- El nombre "inifitychess_el_alto" tiene un error (le falta una n). Evalúa corregirlo.
